@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyRecommendation</string>
+    <string name="app_title">Korean Drama Recommendation</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="drama_title">Title</string>
+    <string name="drama_episode">Episode</string>
+    <string name="drama_channel">Channel</string>
+    <string name="drama_synopsis">Synopsis</string>
+    <string name="detail">Details</string>
+    <string name="info_detail">Episode \nGenres \nMain Cast \n\nAiring Date \nTv Channel</string>
+    <string name="content_detail">content detail</string>
+    <string name="content_synopsis">content synopsis</string>
+    <string name="identity_name">Sabyna Maharani</string>
+    <string name="identity_email">sabynamaharani@gmail.com</string>
+    <string name="identity_about_title">Another Contact Person📱</string>
+    <string name="identity_about">Twitter \nInstagram \nLinkedIn \nDicoding\n </string>
+    <string name="identity_about_val">\@thisisbynn \n@sabyn_ \nwww.linkedin.com/in/sabyna-maharani  \nwww.dicoding.com/users/sabyna </string>
+</resources>
